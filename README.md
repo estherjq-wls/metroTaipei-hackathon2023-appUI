@@ -1,7 +1,7 @@
 # metroTaipei-hackathon2023-appUI
 Metro Taipei Hackathon 2023 | 台北捷運 第3屆 捷運盃黑客松 2023
 
-【台北捷運 第3屆 捷運盃黑客松 —— 尋找黑捷客 UI/UX 設計賽】的參賽作品
+【台北捷運 第3屆 捷運盃黑客松 —— 尋找黑捷客 UI/UX 設計賽】的參賽作品\
 A mobile application prototype designed for Metro Taipei Hackathon 2023 (UI/UX Design) using Figma.
 
 ### The Main Functions
